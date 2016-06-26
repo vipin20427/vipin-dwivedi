@@ -1,0 +1,29 @@
+{
+  "name": "vipin-dwivedi",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipin20427/vipin-dwivedi.git"
+  },
+  "keywords": [
+    "vipin",
+    "dwivedi",
+    "personal",
+    "website"
+  ],
+  "author": "Vipin Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipin20427/vipin-dwivedi/issues"
+  },
+  "homepage": "https://github.com/vipin20427/vipin-dwivedi#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
