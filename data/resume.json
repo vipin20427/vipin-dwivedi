@@ -1,0 +1,79 @@
+{
+	"profile"  : "Hardworking, Enthusiast, Not scared of failure and positive attitude for learning are some of the adjectives that describe me well.
+Currently a Masters student in Computer Science with focus on domains of software engineering, web application development and operating systems.
+Previously worked as Software Application Developer and Engineer at PayPal. Was part of the rewards and Incentive scrum team. Some of the key responsibilities were design and development of micro-services for the platform, design of database schema, Bug fixing, Enhancement of existing platform by developing modules and finally deployment and push to production.
+As an Undergrad believed in the mantra of learning through projects, research and industrial internships. I interned at PayPal ( 6 months ), ARM (2 months) and SanFoundry (6 months) for multifarious roles.
+Love making products.",
+	"education" : [
+		{
+			"school-name" : "University Of Southern California",
+			"location" : "Los Angeles, California",
+			"duration" : "August 2016 - May 2018",
+			"grade" : "",
+			"courses" : [{
+				"point" : "Analysis of Algorithms"
+			},
+			{
+				"point" : "Database Management Systems"
+			}
+		]
+		}
+	],
+	"work-experience" : [
+		{
+			"company-name" : "",
+			"duration" : "",
+			"position-held" : "",
+			"location" : "",
+			"work-summary" : [{
+				"point" : ""
+			}]
+		}
+	],
+	"academic-projects" : [
+		{
+			"project-title" : "",
+			"duration" : "",
+			"type" : "",
+			"school" : "",
+			"project-summary" : [{
+				"point" :""
+			}]
+		}
+	],
+	"research-papers" : [
+		{
+			"paper-title" : "",
+			"type" : "",
+			"journal" : "",
+			"journal-link" : "",
+			"paper-abstract" : "",
+			"published-date" : ""
+		}
+	],
+	"technical-training" : [
+		{
+			"training-name" : "",
+			"duration" : "",
+			"school" : ""
+		}
+	],
+	"MOOC" : [
+		{
+			"course-name" : "",
+			"school" : "",
+			"certification-link" : ""
+		}
+	],
+	"honours" : [{
+		"point" : ""
+	}],
+	"contact" : {
+		"facebook" : "",
+		"linkedin" : "",
+		"twitter"  : "",
+		"github"   : "",
+		"email"    : "",
+		"phone"    : ""
+ 	}
+}
